@@ -1,0 +1,18 @@
+# Python
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# Data
+data/nih/
+
+# Models
+models/models
+models/nih
+
+# OS
+.DS_Store
+Thumbs.db
